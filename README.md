@@ -4,7 +4,7 @@ Set up & run
 
 There are two ways to run this project
 
-# First way:
+First way:
 Clone or download the project, navigate to the path of project like in my case the path is: “/Users/prachisingh/DownloadsLoginUITests-master/Login” and run command: “mvn test”
 Make sure you are inside project "Login"
  
