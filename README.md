@@ -45,7 +45,7 @@ I really like Selenium web driver for UI testing. As its quite powerful. It is o
 
 * Junit
 
-With Junit, you can manage user sessions and assert expectations and conditions, which together allow you to run UI tests with Selenium. I also choose it as its easy and does not take much effort to integrate it with Selenium. I would have preferred TestNG, for broader usage, but since my requirement was very limited and so I avoided it.
+With Junit, you can manage user sessions and assert expectations and conditions, which together allow you to run UI tests with Selenium. I also choose it as its easy and does not take much effort to integrate it with Selenium. I would have preferred TestNG, for broader usage, but since my requirement was very limited ,so I avoided it.
 
 * Java
 
