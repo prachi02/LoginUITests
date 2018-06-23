@@ -10,13 +10,13 @@ Make sure you are inside project "Login"
  
 * Second way:
 
-Import the project in environment
+  Import the project in environment
 
-Make sure the path for Java is set
+  Make sure the path for Java is set
 
-Run the runner class as JUnit test
+  Run the runner class as JUnit test
 
-You can have cucumber plugin in environment but not mandatory
+  You can have cucumber plugin in environment but not mandatory
 
 # Note:
 Change the path of chrome driver file as per one own system.
@@ -50,7 +50,7 @@ With Junit, you can manage user sessions and assert expectations and conditions,
 
 I used Java, as I have been working with Java for automation tasks I did in past.
 
-*Rest Assured
+* Rest Assured
 
 I choose it, as the last test case was difficult to produce at UI level. It is quite easy to do such cases using rest assured. Selenium is not meant for such cases. 
 
@@ -58,7 +58,7 @@ I choose it, as the last test case was difficult to produce at UI level. It is q
 
 I like cucumber, because it gives an overview of entire test flow. It also helps reviewer to understand the test and related code.
 
-# Challenges:
+## Challenges:
 
 The biggest challenge was the last test case, where I was struggling to do with selenium, as I wanted to stick to a single tool and then I realized there are better tools to do such task and selenium is not meant for that. The solution will also be more clean and logical.
 
