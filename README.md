@@ -9,9 +9,13 @@ Clone or download the project, navigate to the path of project like in my case t
 Make sure you are inside project "Login"
  
 Second way:
+
 Import the project in environment
+
 Make sure the path for Java is set
+
 Run the runner class as JUnit test
+
 You can have cucumber plugin in environment but not mandatory
 
 # Note:
@@ -23,9 +27,12 @@ All tests and feature file are located in src/test/java/Login/Test
 
 I grouped tests into 4 different scenarios
 
-Success login
+Successful login
+
 Unsuccessful login due to wrong credential
+
 Unsuccessful login due of wrong session cookie
+
 Unsuccessful login due of stopped redirection
 
 
