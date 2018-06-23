@@ -50,7 +50,7 @@ Cucumber
 
 I like cucumber, because it gives an overview of entire test flow. It also helps reviewer to understand the test and related code.
 
-# Challenges
+# Challenges:
 
 The biggest challenge was the last test case, where I was struggling to do with selenium, as I wanted to stick to a single tool and then I realized there are better tools to do such task and selenium is not meant for that. The solution will also be more clean and logical.
 
