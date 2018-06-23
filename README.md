@@ -1,6 +1,6 @@
 # LoginUITests
 
-Set up & run
+# Set up & run
 
 There are two ways to run this project
 
