@@ -11,7 +11,7 @@ Make sure you are inside project "Login"
  
 * Second way:
 
-  Import the project in environment
+  Import the project in environment(one can use eclipse)
 
   Make sure the path for Java is set
 
